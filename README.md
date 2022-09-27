@@ -15,7 +15,7 @@ Pequeno projeto contendo um contador que aumenta, diminui e reseta a contagem.
 - [ ] Utilizar <b>function()</b>.
 
 
-[Link da pagina](https://clintonrocha98.github.io/counter/)
+<!-- [Link da pagina](https://clintonrocha98.github.io/counter/) -->
 
 <img align="center">
   <img src=".github/reset.png" width="100%" />
