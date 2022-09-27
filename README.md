@@ -26,3 +26,4 @@ Pequeno projeto contendo um contador que aumenta, diminui e reseta a contagem.
 <img align="center">
   <img src=".github/menos.png" width="100%" />
 </img>
+# counter
