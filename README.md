@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Pequeno projeto contendo um contador que aumenta, diminui e reseta a contagem.
+Uma pagina que alteram a cor com base em números positivos ou negativos que são exibidos.
 
 ## 🚀 Tecnologias
 
