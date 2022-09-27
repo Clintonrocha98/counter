@@ -8,11 +8,13 @@ Pequeno projeto contendo um contador que aumenta, diminui e reseta a contagem.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 📝 Critério
+## 📝 Conceitos importantes tratados nesse projeto:
 
-- [ ] Utilizar <b>forEach()</b> pra percorrer uma nodelist e aplicar a logica de click em cada botão.
-- [ ] Utilizar <b>addEventListener()</b> pra aplicar a logica dos botões.
-- [ ] Utilizar <b>function()</b>.
+- document.querySelector()
+- addEventListener()
+- document.body.style.backgroundColor
+- Math.floor()
+- Math.random()
 
 [Link da pagina](https://clintonrocha98.github.io/counter/)
 
