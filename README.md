@@ -8,7 +8,7 @@ Pequeno projeto contendo um contador que aumenta, diminui e reseta a contagem.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 📝 Conceitos importantes tratados nesse projeto:
+## 📝 Conceitos usados nesse projeto:
 
 - document.querySelector()
 - addEventListener()
